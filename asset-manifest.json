@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Janvi181201/finance/static/css/main.eca78424.css",
+    "main.js": "/Janvi181201/finance/static/js/main.9343354a.js",
+    "static/js/453.582da5fb.chunk.js": "/Janvi181201/finance/static/js/453.582da5fb.chunk.js",
+    "index.html": "/Janvi181201/finance/index.html",
+    "main.eca78424.css.map": "/Janvi181201/finance/static/css/main.eca78424.css.map",
+    "main.9343354a.js.map": "/Janvi181201/finance/static/js/main.9343354a.js.map",
+    "453.582da5fb.chunk.js.map": "/Janvi181201/finance/static/js/453.582da5fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca78424.css",
+    "static/js/main.9343354a.js"
+  ]
+}
